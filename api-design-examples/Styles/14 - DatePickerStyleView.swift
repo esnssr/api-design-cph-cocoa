@@ -40,7 +40,7 @@ struct PrimaryDatePickerStyle: DatePickerStyle {
 
     func makeBody(configuration: Configuration) -> some View {
         /*
-         even though DatePickerStyleConfiguration give us
+         even though DatePickerStyleConfiguration gives us
          all the properties we need, it is still tricky to style
          the component, especially if we want to style the
          compact version of it.

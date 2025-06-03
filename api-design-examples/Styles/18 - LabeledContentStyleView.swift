@@ -22,7 +22,7 @@ struct LabeledContentStyleView: View {
 }
 
 /*
- be rebel, find something creative to do with this style 🤷🏼‍♂️
+ be a rebel, find something creative to do with this style 🤷🏼‍♂️
  */
 struct VeryWeirdStyleIDKWhatToDo: LabeledContentStyle {
     func makeBody(configuration: Configuration) -> some View {

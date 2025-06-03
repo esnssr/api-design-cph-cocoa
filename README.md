@@ -2,6 +2,10 @@
 
 This repository contains examples from a talk about API design in SwiftUI, demonstrating progressive disclosure and composable API patterns. Each example shows different approaches to designing SwiftUI component APIs.
 
+## Running the App
+
+Open the project in Xcode and run it (⌘R) to see all the examples in action.
+
 ## Examples
 
 ### View Styles
